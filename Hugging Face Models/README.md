@@ -57,5 +57,3 @@ Through this repository, I have gained practical experience in:
 - Understanding the practical applications of multimodal AI models.
 
 ---
-
-⭐ **Purpose:** This repository serves as a practical learning and implementation workspace for exploring pretrained AI models and understanding their applications across NLP, Computer Vision, and Audio Processing.
