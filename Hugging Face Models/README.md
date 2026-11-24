@@ -37,6 +37,7 @@ Along with implementing AI tasks, I have explored the Hugging Face Model Hub to 
 - **Hugging Face Model Hub** – Exploring and accessing pretrained models.
 - **Transformers** – Loading and utilizing pretrained transformer models.
 - **PyTorch** – Deep learning framework for model execution.
+- **Pillow (PIL)** – Image processing and handling.
 
 ## ⚙️ General Workflow
 1. **Explore Models:** Browse the Hugging Face Model Hub and identify suitable pretrained models.
